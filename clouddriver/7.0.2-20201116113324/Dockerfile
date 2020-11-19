@@ -1,0 +1,1 @@
+FROM us-docker.pkg.dev/spinnaker-community/docker/clouddriver:7.0.2-20201116113324
